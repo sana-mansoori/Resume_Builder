@@ -1,0 +1,28 @@
+
+#cv-form{
+     /* display: none;  */
+} 
+#cv-template{
+    display: none;
+} 
+.myimg{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 200px;
+}
+button{
+    font-size: 25px;
+    padding: 10px 20px;
+    margin: 50px 0 50px 140px;
+    background-color: rgb(83, 83, 83);
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 5 px;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    cursor: pointer;
+    transition: .5s;
+}
+.background{
+    background-color:gray;
+} 
